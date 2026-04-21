@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+faiss-cpu
+numpy
+requests
+langgraph
+apache-airflow
+fastapi
+uvicorn
