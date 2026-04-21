@@ -48,6 +48,17 @@ User (Browser Chat UI)
                 └── Ollama (Mistral 7B, running locally)
                         └── LCEL Chain: retriever | prompt | llm | parser
 ```
+LangGraph
+<img width="1227" height="1620" alt="LANGGRAPH" src="https://github.com/user-attachments/assets/8551c46c-fdf1-4b27-8bbb-b510db9a82db" />
+
+RAG Pipeline
+<img width="3203" height="129" alt="RAG PIPELINE" src="https://github.com/user-attachments/assets/5c6b27ec-9825-45e7-bee2-9ed6e64ce284" />
+
+DATA FLOW
+<img width="706" height="1113" alt="DATA FLOW" src="https://github.com/user-attachments/assets/017ae153-e81c-47bb-ba7d-22a13402acf3" />
+
+Complete Project
+<img width="1272" height="1587" alt="COMPLETE SYSTEM" src="https://github.com/user-attachments/assets/8924201d-2dde-4adf-a45e-52514f77660b" />
 
 ---
 
